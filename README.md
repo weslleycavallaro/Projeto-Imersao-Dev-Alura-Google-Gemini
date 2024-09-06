@@ -1,6 +1,9 @@
 # Projeto-Imersao-Dev-Alura-Google-Gemini
  Me chamo Weslley, estudo Análise e Desenvolvimento de Sistemas.Esse é o projeto em que desenvolvi durante a Imersão Dev Alura com Google Gemini. Foi um pouco desafiador pois faz um certo tempo que não desenvolvo algo utilizado HTML, CSS e JavaScript.
 
+Clique [aqui](https://weslleycavallaro.github.io/Projeto-Imersao-Dev-Alura-Google-Gemini/) para acessar o projeto!
+
+
 ## Processo de Desenvolvimento!
 
 
