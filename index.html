@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Garagem</title>
+</head>
+<body onload="clean()">
+<!-- A função clean é carregada qualdo o site é aberto
+     Ela se certifica de que nenhuma pesquisa esta armazenada e mostra o conteúdo normal da pagina -->
+     
+     <header>
+        <div class="container"></div>
+            <h1 class="titulo">Collector's Garage</h1>
+            <div class="luz"></div>
+        </div>
+    </header>
+    <main>
+        
+        <section>
+            <div>
+                <input type="text" placeholder="Search for old cars...">
+                <button class="search" onclick="clean()" >Clean</button>
+            </div>
+            
+            <button onclick="search()">Search</button>
+        </section>
+            
+
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+            <p>nada</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>Come to visit our vintage garage!</p>
+        <p>Copyright © 2024 Collector's Garage. All rights reserved.</p>
+    </footer>
+
+    <script src="js/dados.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
