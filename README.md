@@ -29,3 +29,7 @@ Os dados da pesquisa que antes ficava de maneira estática dentro do HTML foram 
 Juntamente com esta implementação veio o botão "clean" que limpa a pesquisa e volta para o conteúdo inicial da página.
 ![aula42](https://github.com/user-attachments/assets/b30cd095-047e-4897-a756-5091725187bd)
 ![aula4](https://github.com/user-attachments/assets/ae74f1e1-451a-463e-ace2-39a10185b2ee)
+
+## Fase 5
+Por fim, a ultima etapa de desenvolvimento do projeto. Aqui foi adicionada a funcionalidade de pesquisar, conseguindo listar os veículos com base em seu título, descrição e tags.
+![aula5](https://github.com/user-attachments/assets/5c623653-c41c-448b-9517-c0ce9db144b3)
